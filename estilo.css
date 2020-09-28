@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.caberoda{
+    text-align: center;
+    background-color: #e2d8e7;
+    color: #21022d;
+    padding: 8px 0px 8px 0px;
+}
+
+.tamanho{
+    height: 150px;
+    width: 150px;
+}
+
+.conteudo{
+    background-color: #21022d;
+    margin: 24px;
+    color: #e2d8e7;
+}
+
+.vitaminas{
+    padding: 32px 0px 0px 64px;
+}
+
+.card{
+    padding: 16px 0px 0px 16px;
+}
+
+.alinharCentro{
+    text-align: center;
+}
+
+#fotao{
+    height: 300px;
+    width: 600px;
+    display: block;
+    margin: 32px auto;
+}
